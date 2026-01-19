@@ -1,0 +1,29 @@
+Document 1: water_conservation_guidelines.txt
+
+Include points like:
+
+Use buckets instead of showers
+
+Reuse RO water for plants
+
+Fix leaking taps
+
+Use washing machines only with full load
+
+Document 2: summer_water_saving_tips.txt
+
+Include:
+
+Water usage increases in summer
+
+Water storage tips
+
+Garden watering in early morning
+
+Document 3 (optional): sdg6_overview.txt
+
+Include:
+
+Importance of clean water
+
+Why water conservation matters globally
