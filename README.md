@@ -1,4 +1,4 @@
-Smart Water Advisor 🌊
+Smart Water Advisor
 
 Overview
 The Smart Water Advisor is an AI-powered conversational system designed to promote responsible water usage and conservation. The project is aligned with the United Nations Sustainable Development Goal 6 (Clean Water and Sanitation).
