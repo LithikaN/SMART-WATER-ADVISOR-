@@ -12,8 +12,10 @@ This project uses IBM watsonx Prompt Lab to build a structured, rule-based gener
 Technologies Used
 - IBM watsonx Prompt Lab
 - Granite / LLaMA Instruction Models
+- Rag pipeline
 - Structured Prompt Engineering
 - Responsible AI Guardrails
+  
 
  SDG Alignment
 - SDG 6: Clean Water and Sanitation
